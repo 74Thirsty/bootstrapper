@@ -87,7 +87,10 @@ To install `bootstrapper` as a system-wide command:
 
 ---
 
+
 ## 📄 License
 
-MIT License. Use freely, hack ruthlessly, share improvements.
+This project is distributed under a [custom license](LICENSE).  
+Use freely, hack ruthlessly, share improvements — but ownership remains with the author.
+
 
