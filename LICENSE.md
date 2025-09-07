@@ -1,4 +1,4 @@
-Bootstrapper License (Custom)
+Sprouter License (Custom)
 
 Copyright © 2025 Christopher Hirschauer
 
