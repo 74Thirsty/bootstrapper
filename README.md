@@ -93,7 +93,7 @@ To install `sprouter` as a system-wide command:
 
 ## 📄 License
 
-This project is distributed under a [custom license](LICENSE).  
+This project is distributed under a [custom license](LICENSE.md).  
 Use freely, hack ruthlessly, share improvements — but ownership remains with the author.
 
 
