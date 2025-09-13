@@ -89,8 +89,7 @@ To install `sprouter` as a system-wide command:
 
 ---
 
-[![you-will-get-this-error.png](https://i.postimg.cc/L51hMMxR/you-will-get-this-error.png)](https://postimg.cc/1VyypbxY)
-
+[![error.png](https://i.postimg.cc/wvc6pcNf/error.png)](https://postimg.cc/mzkx398C)
 
 ## 📄 License
 
